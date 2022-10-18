@@ -1,0 +1,10 @@
+clc;
+close all
+A= input('Enter the real part of complex no.: ');
+B= input('Enter the imaginary part of complex no.:
+');
+C=complex(A,B);
+disp(C);
+plot(A,B,'*b','MarkerSize',30);
+text(A+.04,B,'complex number');
+xlabel('Real axis'); ylabel('Imaginary axis');
