@@ -1,5 +1,4 @@
 clc;
-close all
 A= input('Enter the real part of complex no.: ');
 B= input('Enter the imaginary part of complex no.:
 ');
