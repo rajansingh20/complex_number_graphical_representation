@@ -1,9 +1,9 @@
 
-A= input('Enter real part of the  complex no.= ');
-B= input('Enter imaginary part of the complex no.= ');
+A= input('Enter the real part of the  complex no.= ');
+B= input('Enter the imaginary part of the complex no.= ');
 C=complex(A,B);
 disp(C);
 plot(A,B,'*b','MarkerSize',40);
 text(A+.06,B,'complex number');
-xlabel('Real axis on x axix ='); 
-ylabel('Imaginary axis =');
+xlabel('Real-axis on x axis ='); 
+ylabel('Imaginary-axis on y axis =');
