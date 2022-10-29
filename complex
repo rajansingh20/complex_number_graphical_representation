@@ -1,6 +1,7 @@
 
 X= input('Enter the real part of the  complex no.= ');
 Y= input('Enter the imaginary part of the complex no.= ');
+P= input('Enter the real part of the  complex no.= ');
 Z=complex(X,Y);
 disp(Z);
 plot(X,Y,'*b','MarkerSize',40);
