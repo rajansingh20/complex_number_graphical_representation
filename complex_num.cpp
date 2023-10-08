@@ -5,6 +5,7 @@
 using namespace std;
 
 #define endl '\n'
+#define rep(j,a,A) for(int j=0;j<A;j++)
 
 int main() {    
   // defines the complex number: (3.0 + 4.0i)
