@@ -1,6 +1,7 @@
 #include <bits/stdc++.h>
 #include <iostream>     
-#include <complex>      
+#include <complex>
+#include <math.h>
 using namespace std;
 
 #define endl '\n'
