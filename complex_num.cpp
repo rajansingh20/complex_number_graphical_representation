@@ -2,6 +2,8 @@
 #include <complex>      
 using namespace std;
 
+#define endl '\n'
+
 int main() {    
   // defines the complex number: (3.0 + 4.0i)
   std::complex<double> mycomplex(3.0, 4.0);
