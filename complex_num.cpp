@@ -2,6 +2,7 @@
 #include <iostream>     
 #include <complex>
 #include <math.h>
+#include <string>
 using namespace std;
 
 #define endl '\n'
